@@ -59,6 +59,6 @@ allprojects {
     if (build16) {
         archivesBaseName += "-pre1.17"
     } else {
-        archivesBaseName += "-1.17+"
+        archivesBaseName += "-1.20.2+"
     }
 }
